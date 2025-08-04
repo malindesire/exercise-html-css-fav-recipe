@@ -20,6 +20,16 @@ header img {
 
 main {
 	display: flex;
+	justify-content: space-around;
+	gap: 1rem;
+}
+
+section {
+	width: 40%;
+}
+
+li {
+	margin-bottom: 0.8rem;
 }
 
 a {
