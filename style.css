@@ -24,6 +24,14 @@ a {
 	text-decoration: none;
 }
 
+a:hover {
+	color: antiquewhite;
+}
+
+h2 {
+	margin: 0;
+}
+
 header {
 	display: flex;
 	padding: 1rem;
@@ -47,10 +55,6 @@ section {
 	padding: 2rem 1rem;
 }
 
-section h2 {
-	margin: 0;
-}
-
 section .details {
 	margin: 0;
 }
@@ -65,6 +69,7 @@ footer {
 	align-items: center;
 	justify-content: center;
 	padding: 1rem;
+	gap: 0.6rem;
 }
 
 footer a {
