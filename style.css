@@ -4,6 +4,13 @@
 
 body {
 	margin: 0;
+	height: 100vh;
+	display: grid;
+	grid-template-rows: auto 1fr auto;
+	background-image: url('/images/tuna-melt-macka.webp');
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
 }
 
 a {
