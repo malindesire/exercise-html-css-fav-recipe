@@ -16,6 +16,7 @@ body {
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 a {
@@ -43,6 +44,15 @@ main {
 
 section {
 	width: 40%;
+	padding: 2rem 1rem;
+}
+
+section h2 {
+	margin: 0;
+}
+
+section .details {
+	margin: 0;
 }
 
 li {
